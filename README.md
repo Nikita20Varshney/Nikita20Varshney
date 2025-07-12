@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Nikita varshney 
+🌱 I’m developing my skills in Web Development.
 
 <!--
 **Nikita20Varshney/Nikita20Varshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
